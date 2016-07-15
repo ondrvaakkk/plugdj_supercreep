@@ -100,7 +100,7 @@
       songstats: false,
       commandLiteral: "!",
       blacklists: {
-        pica: "https://www.google.cz/"
+        pica: "https://www.google.cz/",
         kokot: "https://www.google.cz/"
       }
     }));
