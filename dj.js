@@ -85,7 +85,7 @@
       afkRankCheck: "ambassador",
       motdEnabled: false,
       motdInterval: 5,
-      motd: "Víte, že https://jajbozemuj.sweb.cz/plugdj.html je nejlepší Plug.DJ místnost (no Kappa)",
+      motd: "Víte, že https://jajbozemuj.sweb.cz/plugdj.html je nejlepší Plug.DJ místnost (no )",
       filterChat: false,
       etaRestriction: false,
       welcome: true,
@@ -95,13 +95,12 @@
       fbLink: null,
       youtubeLink: null,
       website: null,
-      intervalMessages: ["Víte, že https://jajbozemuj.sweb.cz/plugdj.html je nejlepší Plug.DJ místnost (no Kappa)?", "Deska je venku celkem pěkně, asi budu sedět doma a hrát na kompu. :smile:", "Zatím neexistuje list příkazů, ale až bude existovat, bude na adrese https://jajbozemuj.sweb.cz/prikazy.html !"],
+      intervalMessages: ["Víte, že https://jajbozemuj.sweb.cz/plugdj.html je nejlepší Plug.DJ místnost (no )?", "Deska je venku celkem pěkně, asi budu sedět doma a hrát na kompu. :smile:", "Zatím neexistuje list příkazů, ale až bude existovat, bude na adrese https://jajbozemuj.sweb.cz/prikazy.html !"],
       messageInterval: 3,
       songstats: false,
       commandLiteral: "!",
       blacklists: {
-        pica: "https://www.google.cz/",
-        kokot: "https://www.google.cz/"
+
       }
     }));
 
