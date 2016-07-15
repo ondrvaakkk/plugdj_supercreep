@@ -100,7 +100,8 @@
       songstats: false,
       commandLiteral: "!",
       blacklists: {
-
+            pica: "https://rawgit.com/basicBot/custom/master/blacklists/NSFWlist.json",
+            kokot: "https://rawgit.com/basicBot/custom/master/blacklists/OPlist.json"
       }
     }));
 
