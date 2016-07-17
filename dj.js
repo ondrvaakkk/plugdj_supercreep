@@ -95,7 +95,7 @@
       fbLink: null,
       youtubeLink: null,
       website: null,
-      intervalMessages: ["Víte, že https://jajbozemuj.sweb.cz/plugdj.html je nejlepší Plug.DJ místnost (no Kappa)?", "Deska je venku celkem pěkně, asi budu sedět doma a hrát na kompu. :smile:", "Zatím neexistuje list příkazů, ale až bude existovat, bude na adrese https://jajbozemuj.sweb.cz/prikazy.html !"],
+      intervalMessages: ["Deska je venku celkem pěkně, asi budu sedět doma a hrát na kompu. :smile:", "Zatím neexistuje list příkazů, ale až bude existovat, bude na adrese https://jajbozemuj.sweb.cz/prikazy.html !"],
       messageInterval: 3,
       songstats: false,
       commandLiteral: "!",
