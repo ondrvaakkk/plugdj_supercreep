@@ -46,7 +46,7 @@
     //Change the bots default settings and make sure they are loaded on launch
 
     localStorage.setItem("basicBotsettings", JSON.stringify({
-      botName: "COCKOT BOT",
+      botName: "Worldbot",
       language: "czech",
       chatLink: "https://rawgit.com/basicBot/source/master/lang/cs.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
