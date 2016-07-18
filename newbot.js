@@ -48,7 +48,7 @@
     localStorage.setItem("basicBotsettings", JSON.stringify({
       botName: "Worldbot",
       language: "czech",
-      chatLink: "https://rawgit.com/basicBot/source/master/lang/cs.json",
+      chatLink: "https://rawgit.com/ondrvaakkk/plugdj_supercreep/master/cs.json",
       scriptLink: "https://rawgit.com/basicBot/source/master/basicBot.js",
       roomLock: false, // Requires an extension to re-load the script
       startupCap: 1, // 1-200
